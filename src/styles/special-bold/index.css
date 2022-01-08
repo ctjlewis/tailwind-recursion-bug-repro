@@ -1,0 +1,6 @@
+main {
+  /*
+   * This class is defined in an @layer base {...} directive in ../index.css.
+   */
+  @apply large-bold;
+}
